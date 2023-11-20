@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationRestauranteContextCliente"
+    },
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationRestauranteContextDetalle"
+    },
+    "mssql3": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationRestauranteContextFactura"
+    },
+    "mssql4": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationRestauranteContextIngredientes"
+    },
+    "mssql5": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationRestauranteContextMenu"
+    },
+    "mssql6": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationRestauranteContextPedido"
+    },
+    "mssql7": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationRestauranteContextTipoDocumento"
+    },
+    "mssql8": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationRestauranteContextVenta"
+    }
+  }
+}
